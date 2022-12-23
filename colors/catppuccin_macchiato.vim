@@ -81,14 +81,14 @@ hi SpellLocal       guisp=#8AADF4   guifg=NONE      guibg=NONE      ctermfg=117 
 hi SpellRare        guisp=#A6DA95   guifg=NONE      guibg=NONE      ctermfg=151     ctermbg=NONE gui=underline      cterm=underline
 hi StatusLine       guisp=NONE      guifg=#CAD3F5   guibg=#1E2030   ctermfg=254     ctermbg=234  gui=NONE           cterm=NONE
 hi StatusLineNC     guisp=NONE      guifg=#494D64   guibg=#1E2030   ctermfg=240     ctermbg=234  gui=NONE           cterm=NONE
-hi TabLine          guisp=NONE      guifg=#494D64   guibg=#1E2030   ctermfg=240     ctermbg=234  gui=NONE           cterm=NONE
+hi TabLine          guisp=NONE      guifg=#797D94   guibg=#1E2030   ctermfg=240     ctermbg=234  gui=NONE           cterm=NONE
 hi TabLineFill      guisp=NONE      guifg=NONE      guibg=#1E2030   ctermfg=NONE    ctermbg=234  gui=NONE           cterm=NONE
 hi TabLineSel       guisp=NONE      guifg=#A6DA95   guibg=#494D64   ctermfg=151     ctermbg=240  gui=NONE           cterm=NONE
 hi Title            guisp=NONE      guifg=#8AADF4   guibg=NONE      ctermfg=117     ctermbg=NONE gui=bold           cterm=bold
 hi VisualNOS        guisp=NONE      guifg=NONE      guibg=#494D64   ctermfg=NONE    ctermbg=240  gui=bold           cterm=bold
 hi WarningMsg       guisp=NONE      guifg=#EED49F   guibg=NONE      ctermfg=223     ctermbg=NONE gui=NONE           cterm=NONE
 hi WildMenu         guisp=NONE      guifg=NONE      guibg=#6E738D   ctermfg=NONE    ctermbg=243  gui=NONE           cterm=NONE
-hi Comment          guisp=NONE      guifg=#7B8098   guibg=NONE      ctermfg=243     ctermbg=NONE gui=NONE           cterm=NONE
+hi Comment          guisp=NONE      guifg=#8B90A8   guibg=NONE      ctermfg=243     ctermbg=NONE gui=NONE           cterm=NONE
 hi Constant         guisp=NONE      guifg=#F5A97F   guibg=NONE      ctermfg=216     ctermbg=NONE gui=NONE           cterm=NONE
 hi Identifier       guisp=NONE      guifg=#F0C6C6   guibg=NONE      ctermfg=224     ctermbg=NONE gui=NONE           cterm=NONE
 hi Statement        guisp=NONE      guifg=#C6A0F6   guibg=NONE      ctermfg=183     ctermbg=NONE gui=NONE           cterm=NONE
