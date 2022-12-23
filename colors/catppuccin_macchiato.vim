@@ -62,7 +62,7 @@ hi FoldColumn       guisp=NONE      guifg=#6E738D   guibg=#24273A   ctermfg=243 
 hi SignColumn       guisp=NONE      guifg=#494D64   guibg=#24273A   ctermfg=240     ctermbg=235  gui=NONE           cterm=NONE
 hi IncSearch        guisp=NONE      guifg=#494D64   guibg=#F5BDE6   ctermfg=240     ctermbg=218  gui=NONE           cterm=NONE
 hi CursorLineNR     guisp=NONE      guifg=#B7BDF8   guibg=NONE      ctermfg=NONE    ctermbg=NONE gui=NONE           cterm=NONE
-hi LineNr           guisp=NONE      guifg=#494D64   guibg=NONE      ctermfg=240     ctermbg=NONE gui=NONE           cterm=NONE
+hi LineNr           guisp=NONE      guifg=#7B8098   guibg=NONE      ctermfg=240     ctermbg=NONE gui=NONE           cterm=NONE
 hi MatchParen       guisp=NONE      guifg=#F5A97F   guibg=NONE      ctermfg=216     ctermbg=NONE gui=bold           cterm=bold
 hi ModeMsg          guisp=NONE      guifg=#CAD3F5   guibg=NONE      ctermfg=254     ctermbg=NONE gui=bold           cterm=bold
 hi MoreMsg          guisp=NONE      guifg=#8AADF4   guibg=NONE      ctermfg=117     ctermbg=NONE gui=NONE           cterm=NONE
@@ -88,7 +88,7 @@ hi Title            guisp=NONE      guifg=#8AADF4   guibg=NONE      ctermfg=117 
 hi VisualNOS        guisp=NONE      guifg=NONE      guibg=#494D64   ctermfg=NONE    ctermbg=240  gui=bold           cterm=bold
 hi WarningMsg       guisp=NONE      guifg=#EED49F   guibg=NONE      ctermfg=223     ctermbg=NONE gui=NONE           cterm=NONE
 hi WildMenu         guisp=NONE      guifg=NONE      guibg=#6E738D   ctermfg=NONE    ctermbg=243  gui=NONE           cterm=NONE
-hi Comment          guisp=NONE      guifg=#5B6078   guibg=NONE      ctermfg=243     ctermbg=NONE gui=NONE           cterm=NONE
+hi Comment          guisp=NONE      guifg=#7B8098   guibg=NONE      ctermfg=243     ctermbg=NONE gui=NONE           cterm=NONE
 hi Constant         guisp=NONE      guifg=#F5A97F   guibg=NONE      ctermfg=216     ctermbg=NONE gui=NONE           cterm=NONE
 hi Identifier       guisp=NONE      guifg=#F0C6C6   guibg=NONE      ctermfg=224     ctermbg=NONE gui=NONE           cterm=NONE
 hi Statement        guisp=NONE      guifg=#C6A0F6   guibg=NONE      ctermfg=183     ctermbg=NONE gui=NONE           cterm=NONE
