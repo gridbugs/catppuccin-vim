@@ -63,7 +63,7 @@ hi SignColumn       guisp=NONE      guifg=#494D64   guibg=#24273A   ctermfg=240 
 hi IncSearch        guisp=NONE      guifg=#494D64   guibg=#F5BDE6   ctermfg=240     ctermbg=218  gui=NONE           cterm=NONE
 hi CursorLineNR     guisp=NONE      guifg=#B7BDF8   guibg=NONE      ctermfg=NONE    ctermbg=NONE gui=NONE           cterm=NONE
 hi LineNr           guisp=NONE      guifg=#7B8098   guibg=NONE      ctermfg=240     ctermbg=NONE gui=NONE           cterm=NONE
-hi MatchParen       guisp=NONE      guifg=#F5A97F   guibg=NONE      ctermfg=216     ctermbg=NONE gui=bold           cterm=bold
+hi MatchParen       guisp=NONE      guifg=#1E2030   guibg=#F5A97F   ctermfg=216     ctermbg=NONE gui=bold           cterm=bold
 hi ModeMsg          guisp=NONE      guifg=#CAD3F5   guibg=NONE      ctermfg=254     ctermbg=NONE gui=bold           cterm=bold
 hi MoreMsg          guisp=NONE      guifg=#8AADF4   guibg=NONE      ctermfg=117     ctermbg=NONE gui=NONE           cterm=NONE
 hi NonText          guisp=NONE      guifg=#6E738D   guibg=NONE      ctermfg=243     ctermbg=NONE gui=NONE           cterm=NONE
