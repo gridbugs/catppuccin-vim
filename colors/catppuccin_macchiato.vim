@@ -59,8 +59,8 @@ hi ErrorMsg         guisp=NONE      guifg=#ED8796   guibg=NONE      ctermfg=211 
 hi VertSplit        guisp=NONE      guifg=#181926   guibg=NONE      ctermfg=234     ctermbg=NONE gui=NONE           cterm=NONE
 hi Folded           guisp=NONE      guifg=#8AADF4   guibg=#494D64   ctermfg=117     ctermbg=240  gui=NONE           cterm=NONE
 hi FoldColumn       guisp=NONE      guifg=#6E738D   guibg=#24273A   ctermfg=243     ctermbg=235  gui=NONE           cterm=NONE
-hi SignColumn       guisp=NONE      guifg=#494D64   guibg=#24273A   ctermfg=240     ctermbg=235  gui=NONE           cterm=NONE
-hi IncSearch        guisp=NONE      guifg=#494D64   guibg=#F5BDE6   ctermfg=240     ctermbg=218  gui=NONE           cterm=NONE
+hi SignColumn       guisp=NONE      guifg=#797D94   guibg=#24273A   ctermfg=240     ctermbg=235  gui=NONE           cterm=NONE
+hi IncSearch        guisp=NONE      guifg=#797D94   guibg=#F5BDE6   ctermfg=240     ctermbg=218  gui=NONE           cterm=NONE
 hi CursorLineNR     guisp=NONE      guifg=#B7BDF8   guibg=NONE      ctermfg=NONE    ctermbg=NONE gui=NONE           cterm=NONE
 hi LineNr           guisp=NONE      guifg=#7B8098   guibg=NONE      ctermfg=240     ctermbg=NONE gui=NONE           cterm=NONE
 hi MatchParen       guisp=NONE      guifg=#1E2030   guibg=#F5A97F   ctermfg=216     ctermbg=NONE gui=bold           cterm=bold
@@ -80,7 +80,7 @@ hi SpellCap         guisp=#EED49F   guifg=NONE      guibg=NONE      ctermfg=223 
 hi SpellLocal       guisp=#8AADF4   guifg=NONE      guibg=NONE      ctermfg=117     ctermbg=NONE gui=underline      cterm=underline
 hi SpellRare        guisp=#A6DA95   guifg=NONE      guibg=NONE      ctermfg=151     ctermbg=NONE gui=underline      cterm=underline
 hi StatusLine       guisp=NONE      guifg=#CAD3F5   guibg=#1E2030   ctermfg=254     ctermbg=234  gui=NONE           cterm=NONE
-hi StatusLineNC     guisp=NONE      guifg=#494D64   guibg=#1E2030   ctermfg=240     ctermbg=234  gui=NONE           cterm=NONE
+hi StatusLineNC     guisp=NONE      guifg=#797D94   guibg=#1E2030   ctermfg=240     ctermbg=234  gui=NONE           cterm=NONE
 hi TabLine          guisp=NONE      guifg=#797D94   guibg=#1E2030   ctermfg=240     ctermbg=234  gui=NONE           cterm=NONE
 hi TabLineFill      guisp=NONE      guifg=NONE      guibg=#1E2030   ctermfg=NONE    ctermbg=234  gui=NONE           cterm=NONE
 hi TabLineSel       guisp=NONE      guifg=#A6DA95   guibg=#494D64   ctermfg=151     ctermbg=240  gui=NONE           cterm=NONE
